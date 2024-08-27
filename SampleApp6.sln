@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorSampleAppAutoPerCopmonent", "BlazorSampleAppAutoPerCopmonent\BlazorSampleAppAutoPerCopmonent\BlazorSampleAppAutoPerCopmonent.csproj", "{9C1D4101-DEF5-4719-B78C-8319DE23E8A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorSampleAppAutoPerCopmonent.Client", "BlazorSampleAppAutoPerCopmonent\BlazorSampleAppAutoPerCopmonent.Client\BlazorSampleAppAutoPerCopmonent.Client.csproj", "{F8D3C05C-AAB6-4969-9E7D-D024AFFD4B2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C1D4101-DEF5-4719-B78C-8319DE23E8A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1D4101-DEF5-4719-B78C-8319DE23E8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1D4101-DEF5-4719-B78C-8319DE23E8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1D4101-DEF5-4719-B78C-8319DE23E8A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D3C05C-AAB6-4969-9E7D-D024AFFD4B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D3C05C-AAB6-4969-9E7D-D024AFFD4B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D3C05C-AAB6-4969-9E7D-D024AFFD4B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D3C05C-AAB6-4969-9E7D-D024AFFD4B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1403A991-A58D-411D-9152-DE3C3CC5BC46}
+	EndGlobalSection
+EndGlobal
